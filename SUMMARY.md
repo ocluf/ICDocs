@@ -3,7 +3,8 @@
 ## Getting started
 
 * [Installing the SDK](README.md)
-* [deploying your first project](getting-started/deploying-your-first-project.md)
+* [Deploying your first project](getting-started/deploying-your-first-project.md)
+* [CandidUI](getting-started/candidui.md)
 
 ## Core Concepts
 
